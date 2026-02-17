@@ -1,4 +1,4 @@
-import { useState, forwardRef, type Ref } from 'react'
+import { useState, forwardRef } from 'react'
 import CurrencyInput from 'react-currency-input-field';
 import Input, { type InputProps } from "@cloudscape-design/components/input";
 import '@cloudscape-design/global-styles/index.css';
