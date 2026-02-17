@@ -156,6 +156,7 @@ function App() {
           ))}
         </ul>
       </div>
+      <h3>CODE: <a href="https://pastebin.com/WNwuN1j4">https://pastebin.com/WNwuN1j4</a></h3>
     </div>
   );
 }
