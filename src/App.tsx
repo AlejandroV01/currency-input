@@ -145,6 +145,7 @@ function App() {
           placeholder="Please enter a number"
           value={currencyValue}
           decimalsLimit={2}
+          disableAbbreviations
           onValueChange={value => setCurrencyValue(value ?? '')}
         />
       </div>
